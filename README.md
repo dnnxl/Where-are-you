@@ -41,8 +41,8 @@ git clone https://github.com/dnnxl/Where-are-you.git
 </p>
 
 ## Artist designer
-William Arias Zúñiga
+- William Arias Zúñiga
 
 ## Programmers
-Danny Xie Li 
-Gabriel Ramirez Cruz
+- Danny Xie Li 
+- Gabriel Ramirez Cruz
