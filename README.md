@@ -5,6 +5,16 @@ I introduce you to Where are you? But why Where are you, in English? Actually, i
 
 ## Gameplay demo
 
+### Introduction
+<p align="center">
+  <img src="demo/intro.gif">
+</p>
+
+### Big boss
+<p align="center">
+  <img src="demo/Boss.PNG">
+</p>
+
 ## Artist designer
 William Arias Zúñiga
 
